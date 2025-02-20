@@ -4,6 +4,8 @@
 
  ## **1. Description**
 This project is an AI Cricket application that fetches real-time match data from an API and can provide live match details, scorecards, and projected scores using a query-based system powered by Cohere's LLM model.
+Get your Crick_api:https://cricketdata.org/
+Get Cohere api key :https://docs.cohere.com/v2/docs/rate-limits
 
 
 

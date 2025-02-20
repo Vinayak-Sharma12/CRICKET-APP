@@ -15,8 +15,8 @@ This project is an AI Cricket application that fetches real-time match data from
    ### *AI-powered query answering using Cohere*
 
 ## **3. Input / Output**
-<img src="https://i.postimg.cc/vBz1tfQN/Screenshot-2024-08-13-at-5-30-56-PM.png" width="70%" height="70%">
-<img src="https://i.postimg.cc/1X38CXX5/Screenshot-2024-08-13-at-5-33-27-PM.png" width="70%" height="70%">
+<img src="" width="70%" height="70%">
+<img src="https://i.postimg.cc/Qx9QWb94/Whats-App-Image-2025-02-20-at-09-37-34.jpg" width="70%" height="70%">
 <img src="https://i.postimg.cc/RVq3wW2g/Screenshot-2024-08-13-at-5-40-50-PM.png" width="70%" height="70%">
 <img src="https://i.postimg.cc/c1FgKRkK/Screenshot-2024-08-13-at-5-44-53-PM.png" width="70%" height="70%">
 <img src="https://i.postimg.cc/zXMy7Jr8/Screenshot-2024-08-13-at-5-46-31-PM.png" width="70%" height="70%">

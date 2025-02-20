@@ -18,7 +18,7 @@ This project is an AI Cricket application that fetches real-time match data from
 <img src="https://i.postimg.cc/Qx9QWb94/Whats-App-Image-2025-02-20-at-09-37-34.jpg" width="50%" height="50%">
 <img src="https://i.postimg.cc/xj7HYzxK/Screenshot-2025-02-20-at-9-40-33-AM.png" width="70%" height="70%">
 <img src="https://i.postimg.cc/L8F1gMM5/Screenshot-2025-02-20-at-9-41-53-AM.png" width="70%" height="70%">
-<img src="https://i.postimg.cc/rpnGrYJH/Screenshot-2025-02-20-at-9-44-50-AM.png" width="70%" height="70%">
+<img src="https://i.postimg.cc/BvVD6PZ9/Screenshot-2025-02-20-at-9-47-51-AM.png" width="70%" height="70%">
 <img src="https://i.postimg.cc/LXJtBBQ8/Screenshot-2025-02-20-at-9-45-36-AM.png" width="70%" height="70%">
 
 
